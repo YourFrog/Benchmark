@@ -1,0 +1,16 @@
+{
+  "repositories": [
+    {
+      "type": "package",
+      "package": {
+        "name": "yourfrog/benchmark",
+        "version": "dev-master",
+        "autoload": {
+          "psr-0" : {
+            "YourFrog\\Benchmark" : "src"
+          }
+        }
+      }
+    }
+  ],
+}
